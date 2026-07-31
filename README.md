@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="assets/banner.png" alt="Harshavardhan Banner" width="100%" />
-
+<img src="github-banner.png" alt="Harshavardhan Banner" width="100%" />
 # Hi 👋, I'm Harshavardhan S
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&lines=ECE+Student+%7C+Java+%7C+Full-Stack+Developer;Building+Software+and+Embedded+Systems;AI+Enthusiast+%7C+Always+Learning+and+Creating)](https://git.io/typing-svg)
